@@ -12,6 +12,7 @@ namespace calculaNotasOp100___
             //double r;
             //double promedio;
             int n;
+            //linea de p
             
             Console.Write("otra vez haciendo calculos maricas! cuantas notas sacaron esta vez?");
             n = int.Parse(Console.ReadLine());
